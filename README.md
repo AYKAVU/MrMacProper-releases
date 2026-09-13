@@ -8,8 +8,11 @@ MrMacProper следит за памятью и диском и чистит к�
 
 Последняя версия — на вкладке [Releases](../../releases/latest).
 
-Прямая ссылка на свежий файл:
-`https://github.com/AYKAVU/MrMacProper-releases/releases/latest/download/MrMacProper-1.6.dmg`
+Прямая ссылка, которая всегда ведёт на свежую версию:
+`https://github.com/AYKAVU/MrMacProper-releases/releases/latest/download/MrMacProper.dmg`
+
+В каждом релизе лежат два одинаковых файла: с номером версии — чтобы было видно,
+что скачал, и без номера — чтобы ссылка выше не ломалась при следующем выпуске.
 
 ## Установка
 
